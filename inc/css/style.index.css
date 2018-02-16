@@ -184,4 +184,8 @@ img.galeri {
 	#formContact .box {
 		width: 77.5%;
 	}
+	img.galeri {
+		display: block;
+		width: 95%;
+	}
 }
