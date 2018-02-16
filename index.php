@@ -53,13 +53,24 @@ $metaKey = getContent("KEYWORD");
 </div>
 
 <div class="bawah">
-	<div class="bagian">
+	<div class="bagian" id="ttg">
 		<div class="wrap">
 			<h2>Sekilas Tentang Kami</h2>
 			<p>
 				<!-- USE OVERVIEW -->
 				<?php echo getContent("OVERVIEW"); ?>
 			</p>
+		</div>
+	</div>
+	<div class="bagian rata-tengah" id="galeri">
+		<div class="wrap">
+			<h2>Galeri</h2>
+			<hr size="3" color="#444" width="10%" style="margin-bottom: 25px;">
+			<img src="inc/img/toko bibit parfum laundry surabaya.jpg" class="galeri">
+			<img src="inc/img/WhatsApp Image 2018-02-06 at 19.18.37 (2).jpeg" class="galeri">
+			<img src="inc/img/WhatsApp Image 2018-02-06 at 19.18.38.jpeg" class="galeri">
+			<img src="inc/img/WhatsApp Image 2018-02-06 at 19.18.36.jpeg" class="galeri"><br />
+			<button class="tbl biru" style="margin-top: 18px;">Lihat semua foto <i class="fa fa-angle-double-right"></i></button>
 		</div>
 	</div>
 	<div class="bagian" id="blog">

@@ -81,10 +81,8 @@ body { background-color: #ecf0f1; }
 	font-family: OLight;
 }
 #blog {
-	background-color: #fff;
 	text-align: center;
 	color: #444;
-	padding-top: 1px;
 	padding-bottom: 1px;
 }
 #blog hr { margin-bottom: 30px; }
@@ -94,6 +92,7 @@ body { background-color: #ecf0f1; }
 	text-align: left;
 	margin: 2px 10px;
 	box-shadow: 1px 3px 5px 3px #ddd;
+	background-color: #fff;
 	padding-bottom: 20px;
 }
 .boxPos .wrap { margin-left: 10%;margin-right: 10%; }
@@ -123,6 +122,13 @@ body { background-color: #ecf0f1; }
 	display: inline-block;
 	width: 31%;
 }
+img.galeri {
+	width: 23%;
+	height: 215px;
+	display: inline-block;
+	margin-right: 10px;
+}
+#galeri { background-color: #fff;padding-bottom: 20px;padding-top: 1px; }
 @media (max-width: 480px) {
 	.atas { line-height: 65px;box-shadow: 1px 5px 6px #ddd; }
 	#tblMenu {
