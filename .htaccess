@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^pages/tentang-kami pages/tentang.php [L]
+RewriteRule ^pages/galeri pages/galeri.php [L]
+
+RewriteRule ^pos/(.*?)$ pages/pos.php?id=$1 [L]
