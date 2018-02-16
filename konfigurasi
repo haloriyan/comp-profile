@@ -1,0 +1,52 @@
+# META TAG HEADER
+<DESCRIPTION>
+Hello World!
+</DESCRIPTION>
+
+<KEYWORD>
+Hello World
+</KEYWORD>
+
+
+## CONTENT ##
+
+<INDEX>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</INDEX>
+
+<OVERVIEW>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</OVERVIEW>
+
+<TENTANG>
+
+<h1>Tentang PUTRA MANDIRI</h1>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+</p>
+
+<h1>Sejarah PUTRA MANDIRI</h1>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+
+<h1>Alamat kami</h1>
+
+<p>di rumah</p>
+
+</TENTANG>
+
+<FOOTER1>
+<h3>Tes Footer</h3>
+<hr size="3" color="#fff" align="left" width="15%">
+</FOOTER1>
+
+<FOOTER2>
+<h3>Tes Footer</h3>
+<hr size="3" color="#fff" align="left" width="15%">
+</FOOTER2>
+
+<FOOTER3>
+<h3>Tes Footer</h3>
+<hr size="3" color="#fff" align="left" width="15%">
+</FOOTER3>
