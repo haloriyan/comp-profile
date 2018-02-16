@@ -1,0 +1,106 @@
+.atas {
+	position: fixed;
+	top: 0px;left: 0px;right: 0px;
+	line-height: 69px;
+	text-align: center;
+	background-color: #fff;
+	box-shadow: 0px 6px 14px #ddd;
+}
+#tblMenu {
+	color: #444;
+	float: left;
+	margin-left: 5%;
+	font-size: 30px;
+	cursor: pointer;
+}
+.judul {
+	margin: 0;
+	font-size: 23px;
+	float: left;
+	text-align: center;
+	width: 87%;
+	color: #3498db;
+}
+.konten { margin-top: 120px;color: #444; }
+.konten h2 {
+	font-size: 30px;
+	margin-top: 39px;
+}
+.konten p {
+	font-size: 22px;
+	line-height: 41px;
+	font-family: OLight;
+}
+.konten hr { margin: 31px 0px 25px 0px; }
+.menu {
+	position: fixed;
+	top: 69px;left: 0px;bottom: 0px;
+	width: 30%;
+	background-color: #fff;
+	left: -60%;
+	box-shadow: 6px 15px 14px #ddd;
+	z-index: 2;
+}
+.menu a {
+	color: #555;
+	text-decoration: none;
+}
+.menu a#active { color: #3498db; }
+.menu li {
+	list-style: none;
+	line-height: 80px;
+}
+.menu .wrap { margin-left: 16%;margin-right: 16%; }
+.boxFoto {
+	display: inline-block;
+	width: 32%;
+	background-color: #fff;
+	box-shadow: 1px 6px 6px #ddd;
+	margin-right: 13px;
+	margin-bottom: 30px;
+}
+.boxFoto img {
+	width: 100%;
+	height: 300px;
+}
+.boxFoto h3 { font-family: OLight;font-size: 17px; }
+.tblHome {
+	position: fixed;
+	bottom: 53px;right: 5%;
+	width: 69px;
+	height: 69px;
+	transition: 0.4s;
+	cursor: pointer;
+	border: none;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 72px;
+}
+
+@media (max-width: 1330px) {
+	.boxFoto {
+		width: 48%;
+	}
+}
+
+@media (max-width: 480px) {
+	.konten h2 { font-size: 27px; }
+	.konten p {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	.menu {
+		width: 100%;
+		left: -110%;
+	}
+	.boxFoto {
+		display: block;
+		width: 100%;
+		padding-bottom: 13px;
+	}
+	#tblMenu {
+		float: right;
+		margin-right: 5%;
+		margin-left: 0px;
+	}
+}
